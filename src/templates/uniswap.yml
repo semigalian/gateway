@@ -96,3 +96,11 @@ networks:
     amm:
       'WLD-USDC.e': '0x610e319b3a3ab56a0ed5562927d37c233774ba39'
     clmm: {}
+    
+  # Abstract Chain pools
+  abstract:
+    # AMM and CLMM pools for Abstract Chain
+    amm:
+      'USDC.E-ABSTER': '0x0000000000000000000000000000000000000000'  # Placeholder - needs actual pool address
+    clmm:
+      'USDC.E-ABSTER': '0x0000000000000000000000000000000000000000'  # Placeholder - needs actual pool address

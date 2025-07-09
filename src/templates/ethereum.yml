@@ -89,3 +89,10 @@ networks:
     tokenListSource: /home/gateway/conf/lists/worldchain.json
     nativeCurrencySymbol: WLD
     gasPriceRefreshInterval: 60
+  abstract:
+    chainID: 1
+    nodeURL: https://api.mainnet.abs.xyz
+    tokenListType: FILE
+    tokenListSource: /home/gateway/conf/lists/abstract.json
+    nativeCurrencySymbol: ETH
+    gasPriceRefreshInterval: 60

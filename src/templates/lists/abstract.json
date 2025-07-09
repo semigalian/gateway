@@ -1,0 +1,23 @@
+[
+  {
+    "chainId": 1,
+    "address": "0xA0b86a33E6441b8c4C8C8C8C8C8C8C8C8C8C8C8",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "name": "USD Coin",
+    "symbol": "USDC.E",
+    "decimals": 6
+  },
+  {
+    "chainId": 1,
+    "address": "0x8239FBb3e3D0C2cDFd7888D8aF7701240Ac4DcA4",
+    "name": "Abstract Token",
+    "symbol": "ABSTER",
+    "decimals": 18
+  }
+] 
